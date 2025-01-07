@@ -17,6 +17,9 @@ Run the python file in venv if visualisation is not properly done.
 Sometimes the visualisation is visible for some time and then it vanishes due to a GUI error (Try to figure that out)
 
 Your task Tejas is - 
+0) Mention the collaborators as - 
+    Code - Kedar Kenjalkar
+    Documentation - Tejas Udgiri and Kedar Kenjalkar
 1) Research more about how risk is modelled for a portfolio of equity stocks.
 2) Make sense out of the program.
 3) Take visualisation pictures
