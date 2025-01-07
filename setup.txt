@@ -1,0 +1,30 @@
+## Run the below lines to setup the libraries and the necessary environment - 
+
+$ pip install pandas numpy yfinance matplotlib 
+
+The repo is divided into 2 main folders - 
+$ /src
+$ /data
+
+To just test the project on how it's working on randomly generated files run - (THIS IS ALREADY DONE DON'T DO IT)
+$ /src python3 file_generator.py
+The files for a few sample stocks will be generated for testing and running the risk_modelling.py 
+
+Once the files are created you can run the following lines- 
+$ /src python3 risk_modelling.py
+
+Run the python file in venv if visualisation is not properly done.
+Sometimes the visualisation is visible for some time and then it vanishes due to a GUI error (Try to figure that out)
+
+Your task Tejas is - 
+1) Research more about how risk is modelled for a portfolio of equity stocks.
+2) Make sense out of the program.
+3) Take visualisation pictures
+4) Delete the commented lines (They were for debugging purposes only)
+5) Write down the documentation in md(Markdown) in the below format-
+    .what is risk modelling?
+    .the mathematics involved in this case linear algebra for matrix calculations 
+    .setup instructions 
+    .how to run the code 
+    .and visualisation output
+    .add the graphs in the documentation wherever possible *****IMP 
